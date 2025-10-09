@@ -19,8 +19,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=H0K4A&show_icons=true&theme=tokyonight)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H0K4A&layout=compact&theme=tokyonight)
 
 ---
 
