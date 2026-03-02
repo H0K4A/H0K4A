@@ -25,7 +25,6 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=H0K4A&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" 
