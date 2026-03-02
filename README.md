@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, moi c’est Hoka</h1>
+<h1 align="center">Hoka</h1>
 
 <p align="center">
 💻 Développeur passionné<br>
@@ -25,9 +25,16 @@
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H0K4A&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0K4A&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=H0K4A&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0K4A&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" 
+    height="170"
+  />
 </p>
 
 ---
