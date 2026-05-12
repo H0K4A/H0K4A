@@ -31,8 +31,9 @@
 
 ## 🌐 Me retrouver
 <p align="center">
-💬 Ouvert aux discussions sur les projets, idées et collaborations  
-📫 Contacte-moi directement via GitHub  
+💬 Ouvert aux discussions sur les projets, idées et collaborations<br>
+📫 Contacte-moi directement via GitHub<br>
+🌍 <a href="https://hoka-phi.vercel.app">hoka-phi.vercel.app</a>
 </p>
 
 ---
