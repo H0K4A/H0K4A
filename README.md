@@ -30,11 +30,11 @@
 ---
 
 ## 🌐 Me retrouver
-
+<p align="center">
 💬 Ouvert aux discussions sur les projets, idées et collaborations  
 📫 Contacte-moi directement via GitHub  
 🌍 [hoka-phi.vercel.app](https://hoka-phi.vercel.app)
-
+</p>
 ---
 
 <p align="center">
